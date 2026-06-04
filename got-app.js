@@ -731,6 +731,6 @@
 
         // ==================== 初始化 ====================
         
-        console.log('权力的游戏 - 人物家族关系图已加载');
+console.log('Game of Thrones - Character Family Tree loaded');
         console.log(`节点数: ${uniqueNodes.length}, 边数: ${linksData.length}`);
 
