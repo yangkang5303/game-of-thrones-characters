@@ -21,6 +21,7 @@
 | 徒利 Tully | 🟢 绿色 |
 | 马泰尔 Martell | 🟠 土黄色 |
 | 提利尔 Tyrell | 🟢 草绿色 |
+<img width="1878" height="897" alt="image" src="https://github.com/user-attachments/assets/67f60a56-2f3e-41f7-9e4c-4fefdafac48b" />
 
 ## 使用方法
 
