@@ -1,0 +1,306 @@
+﻿{
+    "downloaded":  [
+                       {
+                           "id":  "Arya_Stark",
+                           "file":  "assets/portraits/Arya_Stark.jpg",
+                           "bytes":  12597
+                       },
+                       {
+                           "id":  "Sansa_Stark",
+                           "file":  "assets/portraits/Sansa_Stark.jpeg",
+                           "bytes":  8873
+                       },
+                       {
+                           "id":  "Brandon_Stark_II",
+                           "file":  "assets/portraits/Brandon_Stark_II.jpg",
+                           "bytes":  48492
+                       },
+                       {
+                           "id":  "Eddard_Stark",
+                           "file":  "assets/portraits/Eddard_Stark.jpg",
+                           "bytes":  29951
+                       },
+                       {
+                           "id":  "Robert_Baratheon",
+                           "file":  "assets/portraits/Robert_Baratheon.jpg",
+                           "bytes":  82790
+                       },
+                       {
+                           "id":  "Stannis_Baratheon",
+                           "file":  "assets/portraits/Stannis_Baratheon.jpg",
+                           "bytes":  34133
+                       },
+                       {
+                           "id":  "Catelyn_Tully",
+                           "file":  "assets/portraits/Catelyn_Tully.jpg",
+                           "bytes":  35975
+                       },
+                       {
+                           "id":  "Robb_Stark",
+                           "file":  "assets/portraits/Robb_Stark.jpg",
+                           "bytes":  31131
+                       },
+                       {
+                           "id":  "Rickon_Stark",
+                           "file":  "assets/portraits/Rickon_Stark.jpg",
+                           "bytes":  48852
+                       },
+                       {
+                           "id":  "Tywin_Lannister",
+                           "file":  "assets/portraits/Tywin_Lannister.jpg",
+                           "bytes":  35666
+                       },
+                       {
+                           "id":  "Cersei_Lannister",
+                           "file":  "assets/portraits/Cersei_Lannister.jpg",
+                           "bytes":  7788
+                       },
+                       {
+                           "id":  "Jaime_Lannister",
+                           "file":  "assets/portraits/Jaime_Lannister.jpg",
+                           "bytes":  56584
+                       },
+                       {
+                           "id":  "Tyrion_Lannister",
+                           "file":  "assets/portraits/Tyrion_Lannister.jpg",
+                           "bytes":  6288
+                       },
+                       {
+                           "id":  "Joffrey_Baratheon",
+                           "file":  "assets/portraits/Joffrey_Baratheon.jpg",
+                           "bytes":  26969
+                       },
+                       {
+                           "id":  "Tommen_Baratheon",
+                           "file":  "assets/portraits/Tommen_Baratheon.jpg",
+                           "bytes":  185228
+                       },
+                       {
+                           "id":  "Viserys_Targaryen",
+                           "file":  "assets/portraits/Viserys_Targaryen.jpg",
+                           "bytes":  26091
+                       },
+                       {
+                           "id":  "Gendry",
+                           "file":  "assets/portraits/Gendry.jpg",
+                           "bytes":  51129
+                       },
+                       {
+                           "id":  "Oberyn_Martell",
+                           "file":  "assets/portraits/Oberyn_Martell.jpg",
+                           "bytes":  88871
+                       },
+                       {
+                           "id":  "Margaery_Tyrell",
+                           "file":  "assets/portraits/Margaery_Tyrell.jpg",
+                           "bytes":  8168
+                       },
+                       {
+                           "id":  "Ygritte",
+                           "file":  "assets/portraits/Ygritte.jpg",
+                           "bytes":  11534
+                       },
+                       {
+                           "id":  "Missandei",
+                           "file":  "assets/portraits/Missandei.jpeg",
+                           "bytes":  6358
+                       },
+                       {
+                           "id":  "Grey_Worm",
+                           "file":  "assets/portraits/Grey_Worm.jpg",
+                           "bytes":  50537
+                       },
+                       {
+                           "id":  "Rickard_Stark",
+                           "file":  "assets/portraits/Rickard_Stark.png",
+                           "bytes":  23080
+                       },
+                       {
+                           "id":  "Lyanna_Stark",
+                           "file":  "assets/portraits/Lyanna_Stark.jpg",
+                           "bytes":  31260
+                       },
+                       {
+                           "id":  "Brandon_Stark",
+                           "file":  "assets/portraits/Brandon_Stark.png",
+                           "bytes":  10014
+                       },
+                       {
+                           "id":  "Benjen_Stark",
+                           "file":  "assets/portraits/Benjen_Stark.png",
+                           "bytes":  37012
+                       },
+                       {
+                           "id":  "Joanna_Lannister",
+                           "file":  "assets/portraits/Joanna_Lannister.svg",
+                           "bytes":  13319
+                       },
+                       {
+                           "id":  "Kevan_Lannister",
+                           "file":  "assets/portraits/Kevan_Lannister.png",
+                           "bytes":  14508
+                       },
+                       {
+                           "id":  "Lancel_Lannister",
+                           "file":  "assets/portraits/Lancel_Lannister.jpg",
+                           "bytes":  20596
+                       },
+                       {
+                           "id":  "Myrcella_Baratheon",
+                           "file":  "assets/portraits/Myrcella_Baratheon.jpg",
+                           "bytes":  28402
+                       },
+                       {
+                           "id":  "Aerys_II",
+                           "file":  "assets/portraits/Aerys_II.jpg",
+                           "bytes":  20990
+                       },
+                       {
+                           "id":  "Rhaella_Targaryen",
+                           "file":  "assets/portraits/Rhaella_Targaryen.png",
+                           "bytes":  10332
+                       },
+                       {
+                           "id":  "Rhaegar_Targaryen",
+                           "file":  "assets/portraits/Rhaegar_Targaryen.png",
+                           "bytes":  35306
+                       },
+                       {
+                           "id":  "Rhaenys_Targaryen",
+                           "file":  "assets/portraits/Rhaenys_Targaryen.jpg",
+                           "bytes":  18886
+                       },
+                       {
+                           "id":  "Drogon",
+                           "file":  "assets/portraits/Drogon.png",
+                           "bytes":  24926
+                       },
+                       {
+                           "id":  "Rhaegal_Dragon",
+                           "file":  "assets/portraits/Rhaegal_Dragon.png",
+                           "bytes":  29532
+                       },
+                       {
+                           "id":  "Viserion_Dragon",
+                           "file":  "assets/portraits/Viserion_Dragon.png",
+                           "bytes":  25238
+                       },
+                       {
+                           "id":  "Steffon_Baratheon",
+                           "file":  "assets/portraits/Steffon_Baratheon.png",
+                           "bytes":  19038
+                       },
+                       {
+                           "id":  "Renly_Baratheon",
+                           "file":  "assets/portraits/Renly_Baratheon.png",
+                           "bytes":  31164
+                       },
+                       {
+                           "id":  "Selyse_Florent",
+                           "file":  "assets/portraits/Selyse_Florent.png",
+                           "bytes":  29572
+                       },
+                       {
+                           "id":  "Shireen_Baratheon",
+                           "file":  "assets/portraits/Shireen_Baratheon.jpg",
+                           "bytes":  27744
+                       },
+                       {
+                           "id":  "Hoster_Tully",
+                           "file":  "assets/portraits/Hoster_Tully.png",
+                           "bytes":  33506
+                       },
+                       {
+                           "id":  "Edmure_Tully",
+                           "file":  "assets/portraits/Edmure_Tully.png",
+                           "bytes":  24682
+                       },
+                       {
+                           "id":  "Lysa_Tully",
+                           "file":  "assets/portraits/Lysa_Tully.png",
+                           "bytes":  28084
+                       },
+                       {
+                           "id":  "Doran_Martell",
+                           "file":  "assets/portraits/Doran_Martell.png",
+                           "bytes":  28912
+                       },
+                       {
+                           "id":  "Elia_Martell",
+                           "file":  "assets/portraits/Elia_Martell.png",
+                           "bytes":  24646
+                       },
+                       {
+                           "id":  "Mace_Tyrell",
+                           "file":  "assets/portraits/Mace_Tyrell.png",
+                           "bytes":  42762
+                       },
+                       {
+                           "id":  "Loras_Tyrell",
+                           "file":  "assets/portraits/Loras_Tyrell.png",
+                           "bytes":  31234
+                       },
+                       {
+                           "id":  "Olenna_Tyrell",
+                           "file":  "assets/portraits/Olenna_Tyrell.jpg",
+                           "bytes":  187562
+                       },
+                       {
+                           "id":  "Petyr_Baelish",
+                           "file":  "assets/portraits/Petyr_Baelish.jpg",
+                           "bytes":  5434
+                       },
+                       {
+                           "id":  "Varys",
+                           "file":  "assets/portraits/Varys.jpg",
+                           "bytes":  6673
+                       },
+                       {
+                           "id":  "Brienne_Tarth",
+                           "file":  "assets/portraits/Brienne_Tarth.jpeg",
+                           "bytes":  10433
+                       },
+                       {
+                           "id":  "Theon_Greyjoy",
+                           "file":  "assets/portraits/Theon_Greyjoy.jpg",
+                           "bytes":  8949
+                       },
+                       {
+                           "id":  "Ramsay_Bolton",
+                           "file":  "assets/portraits/Ramsay_Bolton.jpg",
+                           "bytes":  34400
+                       },
+                       {
+                           "id":  "Night_King",
+                           "file":  "assets/portraits/Night_King.jpg",
+                           "bytes":  49658
+                       },
+                       {
+                           "id":  "Samwell_Tarly",
+                           "file":  "assets/portraits/Samwell_Tarly.jpg",
+                           "bytes":  5874
+                       },
+                       {
+                           "id":  "Jorah_Mormont",
+                           "file":  "assets/portraits/Jorah_Mormont.jpg",
+                           "bytes":  208976
+                       },
+                       {
+                           "id":  "High_Sparrow",
+                           "file":  "assets/portraits/High_Sparrow.jpg",
+                           "bytes":  61359
+                       }
+                   ],
+    "failed":  [
+                   {
+                       "id":  "Daenerys_Targaryen",
+                       "url":  "https://thronesapi.com/assets/images/daenerys.jpg",
+                       "error":  "无法连接到远程服务器"
+                   },
+                   {
+                       "id":  "Jon_Snow",
+                       "url":  "https://thronesapi.com/assets/images/jon-snow.jpg",
+                       "error":  "The operation has timed out."
+                   }
+               ]
+}

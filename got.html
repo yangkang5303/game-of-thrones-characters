@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>权力的游戏 - 人物家族关系图</title>
+    <link rel="stylesheet" href="got.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚔️ 权力的游戏 - 人物家族关系图</h1>
+            <p class="subtitle">Game of Thrones - Character Family Tree</p>
+        </header>
+        
+        <div class="controls">
+            <button id="resetBtn" class="btn btn-reset" title="重置视图">🔄 重置视图</button>
+            <button id="zoomInBtn" class="btn btn-zoom-in" title="放大">➕ 放大</button>
+            <button id="zoomOutBtn" class="btn btn-zoom-out" title="缩小">➖ 缩小</button>
+            <button id="toggleLabelsBtn" class="btn btn-toggle" title="切换边标签">🏷️ 边标签</button>
+            <button id="fullscreenBtn" class="btn btn-fullscreen" title="全屏查看关系图">⛶ 全屏</button>
+        </div>
+
+        <div class="house-filter" id="houseFilter">
+            <h3>🏠 家族筛选</h3>
+            <label><input type="checkbox" checked data-house="stark"><span class="house-dot" style="background:#8B4513"></span>史塔克 Stark</label>
+            <label><input type="checkbox" checked data-house="lannister"><span class="house-dot" style="background:#FFD700"></span>兰尼斯特 Lannister</label>
+            <label><input type="checkbox" checked data-house="targaryen"><span class="house-dot" style="background:#DC143C"></span>坦格利安 Targaryen</label>
+            <label><input type="checkbox" checked data-house="baratheon"><span class="house-dot" style="background:#4682B4"></span>拜拉席恩 Baratheon</label>
+            <label><input type="checkbox" checked data-house="tully"><span class="house-dot" style="background:#2E8B57"></span>徒利 Tully</label>
+            <label><input type="checkbox" checked data-house="martell"><span class="house-dot" style="background:#DAA520"></span>马泰尔 Martell</label>
+            <label><input type="checkbox" checked data-house="tyrell"><span class="house-dot" style="background:#9ACD32"></span>提利尔 Tyrell</label>
+            <label><input type="checkbox" checked data-house="others"><span class="house-dot" style="background:#708090"></span>其他 Others</label>
+        </div>
+        
+        <div id="graph-container"></div>
+        <div id="tooltip" class="tooltip"></div>
+    </div>
+
+    <!-- 模态框 -->
+    <div id="modalOverlay" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose">&times;</button>
+            <div class="modal-header">
+                <div class="modal-avatar" id="modalAvatar"></div>
+                <div class="modal-title">
+                    <h2 id="modalName"></h2>
+                    <span class="modal-subtitle" id="modalTitle"></span>
+                </div>
+            </div>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="got-data.js?v=20260519-theon-night-king"></script>
+    <script src="got-app.js?v=20260519-theon-night-king"></script>
+</body>
+</html>
+
